@@ -1,4 +1,4 @@
-# koa-error
+# koa1-error
 
   Error response middleware for koa supporting:
 
@@ -6,10 +6,12 @@
 - json
 - html
 
+*pins to koa@1*
+
 ## Installation
 
 ```js
-$ npm install koa-error
+$ npm install koa1-error
 ```
 
 ## Options
